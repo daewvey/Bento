@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Reddit',
+			icon: 'bot',
+			link: 'https://www.reddit.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Stuudium',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://viljandi.ope.ee/s/5844',
 		},
 		{
 			id: '6',
@@ -139,21 +139,26 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'FitGirl',
+					link: 'https://fitgirl-repacks.site/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '1337x',
+					link: 'https://www.1337x.to/home/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Rarbg',
+					link: 'https://rarbgget.org/torrents.php',
+				},				
+				{
+					name: 'Viljandi Gümnaasium',
+					link: 'https://viljandigymnaasium.edu.ee/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
+
 			],
 		},
 		{
